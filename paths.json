@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/ue-antrix /:/",
+    "/content/ue-antrix/:/",
     "/content/ue-antrix/configuration:/.helix/config.json",
     "/content/ue-antrix/metadata:/metadata.json"
   ],
